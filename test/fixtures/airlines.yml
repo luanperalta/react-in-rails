@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+united_airlines:
+  name: United Airlines
+  image_url: https://open-flights.s3.amazonaws.com/United-Airlines.png
+  slug: united-airlines
+
+southwest:
+  name: Southwest
+  image_url: https://open-flights.s3.amazonaws.com/Southwest-Airlines.png
+  slug: southwest
